@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "pylint-dev",
+  "repo": "pylint-plugin-utils",
+  "versions": [
+    {
+      "commit": "cee16e5e91101beb10c57b52d80f202eb0c52f40",
+      "parsed_at": "2026-10-15T09:49:40.628998+00:00",
+      "filetree": "filetree/cee16e5e91101beb10c57b52d80f202eb0c52f40.nq.gz",
+      "blobs": [
+        "blob/2473010a85e274c21b0ec899e1451791a52172a8.nq.gz",
+        "blob/918c8a27ceb1d3d439cdd729190d1c83dbdd8060.nq.gz",
+        "blob/768e42dce60f2f8ecf9626c951ed2d79f6630dba.nq.gz",
+        "blob/90674f0989c45fa64be6cc0636c256429213da09.nq.gz",
+        "blob/c804e1b1c61a14ad82ef80bf73197af9b1f44f97.nq.gz",
+        "blob/ad67b32c42aab644fbb03b084d56b1193b0fed12.nq.gz",
+        "blob/aa9d3be300372edbe3b50070cd3559ce22c3adc9.nq.gz",
+        "blob/3cb90f7626a61af6edb55adb10b7de36e309e35c.nq.gz",
+        "blob/d847e9c3678401351fc88822ffc62f4dad74ac20.nq.gz",
+        "blob/2f8df88e739d9c245830abfdf018a0fcbdcfca4b.nq.gz",
+        "blob/3d2a6a0ec6295d3b9af00e000bb536b31217bc6b.nq.gz",
+        "blob/b90ab14859e95c8381efd6a41a4060bfb6fec101.nq.gz",
+        "blob/bd65411565f9c6d6e2fca85258df1660751f2a9d.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/0bc6aaba70b550daec21af700ea236322b81cb0b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
