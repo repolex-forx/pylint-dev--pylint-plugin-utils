@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pylint-dev/pylint-plugin-utils/commit/cee16e5e91101beb10c57b52d80f202eb0c52f40",
       "git:hexsha": "cee16e5e91101beb10c57b52d80f202eb0c52f40",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pylint-dev/pylint-plugin-utils/commit/cc9465a79e8fc15681934d646cb740bf556f78c6",
