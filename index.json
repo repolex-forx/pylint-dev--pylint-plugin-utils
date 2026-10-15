@@ -1,0 +1,11 @@
+{
+  "org": "pylint-dev",
+  "repo": "pylint-plugin-utils",
+  "versions": [
+    {
+      "commit": "cee16e5e91101beb10c57b52d80f202eb0c52f40",
+      "tag": "",
+      "parsed_at": "2026-10-15T09:52:26.390752+00:00"
+    }
+  ]
+}
